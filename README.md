@@ -1,4 +1,7 @@
 # Gem Status 
+As of April 2014, Project has stalled out...
+As it turns out, Doing DDD while preserving ActiveRecord goodies, is not so easy.
+
 As of 2 March 2014, Incomplete Extraction.  
 This gem is in the process of being extracted from a reference architecture RubyOnRails application.
 
